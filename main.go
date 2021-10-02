@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	"gihub.com/rchalicham/gotraining/handlers"
+	"github.com/rchalicham/gotraining/handlers"
 )
 
 func main() {

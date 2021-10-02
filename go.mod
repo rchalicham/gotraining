@@ -1,3 +1,3 @@
-module gihub.com/rchalicham/gotraining
+module github.com/rchalicham/gotraining
 
 go 1.17
